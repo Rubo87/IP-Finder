@@ -1,0 +1,24 @@
+body {
+
+}
+
+.navContainter {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: end;
+  list-style: none;
+  background-color:blanchedalmond;
+  align-items: center;
+  padding-right: 10px;
+  font-weight: 700;
+}
+
+.navItems:hover {
+  color: rgb(53, 135, 97);
+}
+
+.Content {
+  padding: 10px;
+}
