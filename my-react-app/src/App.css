@@ -22,3 +22,8 @@ body {
 .Content {
   padding: 10px;
 }
+
+.mapContainer {
+  height: 200px;
+  margin: auto;
+}

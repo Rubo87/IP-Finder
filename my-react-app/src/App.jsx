@@ -14,9 +14,10 @@ function App() {
 
   return (
     <ChakraProvider>   
-      <NavBar /> 
+      <NavBar />
       <NavTabs />
     </ChakraProvider> 
+
  )
 }
 
